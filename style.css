@@ -1,0 +1,39 @@
+body{
+    margin: 0px;
+    background-color: bisque;
+h1{
+    display :inline;
+}
+}
+header{
+    display: flex;
+}
+ #nevd{
+    align-items:righe;
+    margin: 0px;
+    font-size: 20px;
+    
+
+}
+.end{
+    font-size: 10px;
+}
+#div end {
+    align-items: right;
+    font-size: 100px;
+}
+.gred {
+    background-image:linear-gradient(to righe, green 0%, purple 50%,red 100%,);
+    background-clip: text;
+    
+}
+#ABC{
+    margin: 100px;
+    padding-top: 100px;
+}
+#div one{
+    margin: 10px;
+    padding: 20px;
+    background-color: blueviolet;
+    border: 10px;
+}
